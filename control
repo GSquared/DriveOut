@@ -3,7 +3,7 @@ Name: DriveOut
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Sign Out of Google Drive Automatically!
 Maintainer: GSquared
 Author: GSquared
 Section: Tweaks
